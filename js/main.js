@@ -1,1 +1,1 @@
-$((function(){$(".intro-bg-slider").slick({infinite:!0,slidesToShow:1,slidesToScroll:1,arrows:!1,fade:!0,autoplay:!0,autoplaySpeed:1800,cssEase:"linear",focusOnSelect:!1})}));
+$((function(){$(".intro-bg-slider").slick({infinite:!0,slidesToShow:1,slidesToScroll:1,arrows:!1,fade:!0,autoplaySpeed:1800,cssEase:"linear",focusOnSelect:!1})}));
